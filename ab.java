@@ -1,6 +1,8 @@
 import java.util.*;
-public class ab{
-    public static void main(String args[]){
+
+public class ab {
+    public static void main(String args[]) {
         System.out.println("Hello world");
+        System.out.println("Shri");
     }
 }
